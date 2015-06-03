@@ -1,0 +1,9 @@
+c:\users\zhou\documents\visual studio 2013\Projects\DES_12307130088\DES_12307130088\bin\Debug\DES_12307130088.exe.config
+C:\Users\Zhou\documents\visual studio 2013\Projects\DES_12307130088\DES_12307130088\bin\Debug\DES_12307130088.exe
+C:\Users\Zhou\documents\visual studio 2013\Projects\DES_12307130088\DES_12307130088\bin\Debug\DES_12307130088.pdb
+C:\Users\Zhou\documents\visual studio 2013\Projects\DES_12307130088\DES_12307130088\obj\Debug\DES_12307130088.csprojResolveAssemblyReference.cache
+C:\Users\Zhou\documents\visual studio 2013\Projects\DES_12307130088\DES_12307130088\obj\Debug\DES_12307130088.Form1.resources
+C:\Users\Zhou\documents\visual studio 2013\Projects\DES_12307130088\DES_12307130088\obj\Debug\DES_12307130088.Properties.Resources.resources
+C:\Users\Zhou\documents\visual studio 2013\Projects\DES_12307130088\DES_12307130088\obj\Debug\DES_12307130088.csproj.GenerateResource.Cache
+C:\Users\Zhou\documents\visual studio 2013\Projects\DES_12307130088\DES_12307130088\obj\Debug\DES_12307130088.exe
+C:\Users\Zhou\documents\visual studio 2013\Projects\DES_12307130088\DES_12307130088\obj\Debug\DES_12307130088.pdb
